@@ -1,8 +1,9 @@
 ### Hi there 👋
+My name is Vishal Verma and I'm a data scientist and Kaggle Expert. I have a rich experience working as a software development engineer at Amazon and Samsung Research Institute. Familiar with gathering, cleaning and organizing data for building Machine learning models. Building ML models and production deployment is my forte.
 
 - :zap: I love math, programming, data science, economics and international relations
 - 🌱 I’m addicted to learning and growing every day
-- :earth_india: I am currently sharing a little bit of my knowledge to the world through my blogs and free 1:1 mentoring sessions.
+- :earth_asia: I am currently sharing a little bit of my knowledge to the world through my blogs and free 1:1 mentoring sessions.
 - 📫 How to find me: 
   - 💡: [Medium articles](https://medium.com/@vishalvermavv17)
   - 🏢: [LinkedIn](https://www.linkedin.com/in/vishalvermacse/)
