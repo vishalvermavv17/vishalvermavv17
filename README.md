@@ -25,7 +25,7 @@ My name is Vishal Verma and I'm a data scientist and Kaggle Expert. I have a ric
 - [Transition journey from software developer to data scientist](https://vishalvermavv17.medium.com/software-engineer-to-data-scientist-tranisition-journey-2c7a3f8c30d9)
 - [Claim Management System EDA guide](https://www.kaggle.com/code/crashoverdrive/cms-complete-eda-guide)
 - [Facts to remember before applying Naive Bayes Algorithm](https://www.linkedin.com/posts/vishalvermacse_datascience-classification-probability-activity-6926788923079688192-S-1j?utm_source=linkedin_share&utm_medium=member_desktop_web)
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vishalvermavv17/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vishalvermavv17/0" alt="Recent Article 0">
+- [The Art of Learning Statistics and Resources Required](https://vishalvermavv17.medium.com/statistics-resource-guide-bdd083e1e8a8)
+- [ADA Boost: Amount of say equation's inside relation with log-odds](https://www.linkedin.com/posts/vishalvermacse_machinelearning-datascience-boosting-activity-6950260027093856256-ifyG?utm_source=linkedin_share&utm_medium=member_desktop_web)
   
 
