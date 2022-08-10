@@ -10,6 +10,22 @@ My name is Vishal Verma and I'm a data scientist and Kaggle Expert. I have a ric
   - 🧠: [Kaggle](https://www.kaggle.com/crashoverdrive)
   - 🤝: [Free Mentoring Session Request Form](https://forms.gle/dPSQr26GF5CkW36p7)
 
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Scikit_Learn-informational?style=flat&logo=scikitlearn&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-GIT-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Amazon_AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Amazon_EC2-informational?style=flat&logo=amazonec2&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud_DB-Amazon_DynamoDB-informational?style=flat&logo=amazondynamodb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Amazon_Sagemaker-informational?style=flat&logo=amazonsagemaker&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 
