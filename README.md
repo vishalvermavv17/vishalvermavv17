@@ -23,4 +23,4 @@ Here are some ideas to get you started:
   - 🧠: [Kaggle](https://www.kaggle.com/crashoverdrive)
   - 🤝: [Mentor Session Request Form](https://forms.gle/dPSQr26GF5CkW36p7)
 
-[![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=vishalvermavv17&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/vishalvermavv17/github-readme-stats)
+[Vishal's github stats](https://github-readme-stats.vercel.app/api?username=vishalvermavv17&count_private=true&show_icons=true&theme=radical&hide_rank=false)
