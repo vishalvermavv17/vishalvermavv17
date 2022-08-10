@@ -11,4 +11,4 @@
 
 [![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=vishalvermavv17&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/vishalvermavv17)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalvermavv17)](https://github.com/vishalvermavv17/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalvermavv17&layout=compact)](https://github.com/vishalvermavv17)
